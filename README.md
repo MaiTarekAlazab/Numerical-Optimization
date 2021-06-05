@@ -1,6 +1,6 @@
 # Numerical-Optimization
 This repository includes labs and submission files for Numerical Optimization course at ITI-AI  
 (edits to be done: putting these functions into a class )
-1- Linear Regression 
-2- Gradient Descent types {batch, mini-batch, stochastic}
-3- Gradient Descent optimization techniques {momentum, NAG}
+1. Linear Regression 
+2. Gradient Descent types {batch, mini-batch, stochastic}
+3. Gradient Descent optimization techniques {momentum, NAG}
