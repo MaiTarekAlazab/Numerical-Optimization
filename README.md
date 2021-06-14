@@ -5,6 +5,7 @@ This repository includes labs and submission files for Numerical Optimization co
 2. Gradient Descent types {batch, mini-batch, stochastic}
 3. Gradient Descent optimization techniques {momentum, NAG}
 4. Gradient Descent optimization techniques {Adagrad, Rmsprop, Adam}
+5. Putting all together in one file
 
 - edits to be done:
    * adding comments
